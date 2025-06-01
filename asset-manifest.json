@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sakuraskincareasian/static/css/main.e6c13ad2.css",
+    "main.js": "/sakuraskincareasian/static/js/main.f75751f0.js",
+    "static/js/453.797c4583.chunk.js": "/sakuraskincareasian/static/js/453.797c4583.chunk.js",
+    "index.html": "/sakuraskincareasian/index.html",
+    "main.e6c13ad2.css.map": "/sakuraskincareasian/static/css/main.e6c13ad2.css.map",
+    "main.f75751f0.js.map": "/sakuraskincareasian/static/js/main.f75751f0.js.map",
+    "453.797c4583.chunk.js.map": "/sakuraskincareasian/static/js/453.797c4583.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f75751f0.js"
+  ]
+}
